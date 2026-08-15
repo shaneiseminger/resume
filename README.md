@@ -1,4 +1,11 @@
-# Resume
+# Shane Iseminger
+
+Albuquerque, NM • UTC-6 MST • UTC-7 MDT  
+
+> shane@shaneiseminger.com  
+> [github.com/shaneiseminger](https://github.com/shaneiseminger)  
+> [linkedin.com/in/shaneiseminger](https://linkedin.com/in/shaneiseminger)  
+> 775-453-3360  
 
 **Lead/staff software engineer with 25+ years of hands-on experience in software engineering,** software architecture, system design, performance, and security. I especially value projects doing meaningful work on a team that values clean code, creative problem solving, and thoughtful architecture.
 
