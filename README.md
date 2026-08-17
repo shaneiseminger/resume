@@ -7,7 +7,7 @@ Albuquerque, NM • UTC-6 MST • UTC-7 MDT
 > [linkedin.com/in/shaneiseminger](https://linkedin.com/in/shaneiseminger)  
 > 775-453-3360  
 
-**Staff/principal software engineer with deep, hands-on experience in software engineering,** software architecture, system design, performance, and security. I especially value projects doing meaningful work on a team that values clean code, creative problem solving, and thoughtful architecture.
+**Staff/principal-level software engineer with deep, hands-on experience in software engineering,** software architecture, system design, performance, and security. I especially value projects doing meaningful work on a team that values clean code, creative problem solving, and thoughtful architecture.
 
 ---
 ## Background
