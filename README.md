@@ -52,7 +52,7 @@ API design/integration • Observability • ORMs • OAuth & SAML • DNS • T
 
 ### **Principal Software Engineer**: SocialHP
 AUG 2019 - JULY 2026
-`PHP` `Symfony` `Zend Framework` `Docker` `Node.js` `Go` `PostgreSQL` `ElasticSearch` `JavaScript` `Ubuntu Linux` `Kubernetes (GKE)` `GCP` `Github Actions` 
+`PHP` `Symfony` `Zend Framework` `Docker` `Node.js` `Go` `PostgreSQL` `ElasticSearch` `JavaScript` `Ubuntu Linux` `Kubernetes (GKE)` `GCP` `Github Actions` `HTML/CSS/SASS` `Wordpress`
 
 End-to-end ownership of software development, software architecture, technical leadership, systems design, cloud infrastructure and security at an SaaS platform used by organizations for publishing social media posts as well as tracking and analyzing their performance.
 - Maintained and extended a legacy codebase in parallel with a full platform rebuild, keeping production stable throughout the transition.
@@ -68,7 +68,7 @@ End-to-end ownership of software development, software architecture, technical l
 
 ### **Senior Software Engineer**: SocialHP
 JUL 2017 - AUG 2019
-`PHP` `Zend Framework` `Docker` `Node.js` `MySQL` `PostgreSQL` `JavaScript` `Apache`  `Ubuntu Linux ` `Github Actions` 
+`PHP` `Zend Framework` `Docker` `Node.js` `MySQL` `PostgreSQL` `JavaScript` `Apache`  `Ubuntu Linux ` `Github Actions` `HTML/CSS/SASS` `Wordpress`
 
 -  Maintained and expanded complex MVC framework implementation.
 - Transitioned workloads and dev environment to containers.
@@ -79,7 +79,7 @@ JUL 2017 - AUG 2019
 
 ### **Software Engineer**: SocialHP
 MAR 2013 - JUL 2017
-`PHP` `Zend Framework` `Node.js` `MySQL` `JavaScript` `Apache` `CentOS Linux`  `Gitlab` 
+`PHP` `Zend Framework` `Node.js` `MySQL` `JavaScript` `Apache` `CentOS Linux`  `Gitlab` `HTML/CSS` `Wordpress`
 
 - Maintained and expanded complex MVC framework implementation.
 - Wrote many third-party API integrations.
@@ -88,7 +88,7 @@ MAR 2013 - JUL 2017
 
 ### **Senior Software Engineer**: CityBlast
 JUN 2016 - APR 2024
-`PHP` `Zend Framework` `MySQL` `JavaScript` `Apache` `Kubernetes (EKS)` `AWS`
+`PHP` `Zend Framework` `MySQL` `JavaScript` `Apache` `Kubernetes (EKS)` `AWS` `HTML/CSS/SASS` `Wordpress`
 
 As senior software engineer, focused on software development, software architecture, systems design and cloud infrastructure at an SaaS platform used by real estate agents to publish their listings on social media and track engagement. Sister company to SocialHP.
 
@@ -99,7 +99,7 @@ As senior software engineer, focused on software development, software architect
 
 ### **Software Engineer**: CityBlast
 MAR 2013 - JUN 2016
-`PHP` `Zend Framework` `MySQL` `JavaScript` `Apache` `CentOS Linux` 
+`PHP` `Zend Framework` `MySQL` `JavaScript` `Apache` `CentOS Linux` `HTML/CSS` `Wordpress`
 
 Focused on software development, software architecture, systems design and cloud infrastructure at an SaaS platform used by real estate agents to publish their listings on social media and track engagement. Sister company to SocialHP.
 
@@ -109,7 +109,7 @@ Focused on software development, software architecture, systems design and cloud
 
 ### **Software Engineer**: The Reading Room
 AUG 2012 - FEB 2013
-`PHP` `Zend Framework` `MySQL` `ElasticSearch` `JavaScript` `Apache` `Debian Linux` `Elastic Beanstalk` `AWS`
+`PHP` `Zend Framework` `MySQL` `ElasticSearch` `JavaScript` `Apache` `Debian Linux` `Elastic Beanstalk` `AWS` `HTML/CSS`
 
 Engaged in software development at a social media platform focused on book review and discovery.
 
@@ -119,13 +119,28 @@ Engaged in software development at a social media platform focused on book revi
 
 ### **Software Engineer:** SheSaidBeauty
 FEB 2011 - APR 2012
-`PHP` `Zend Framework` `MySQL` `ElasticSearch` `JavaScript` `Apache` `Debian Linux` `Elastic Beanstalk` `AWS`
+`PHP` `Zend Framework` `MySQL` `ElasticSearch` `JavaScript` `Apache` `Debian Linux` `Elastic Beanstalk` `AWS` `HTML/CSS`
 
 Engaged in software development at a social media platform focused on beauty content, techniques, tips, and products.
 
 - Implemented the vast majority of this specialized social media platform.
 - Expanded the service from basic content sharing to social crowd-sourced content platform and added a product discovery component and box subscription e-commerce component.
 - Worked closely with the CTO to manage and scale the AWS cloud infrastructure.
+
+### **Software Engineer, UI/UX, Graphic Designer:** Freelance
+JAN 1996 - FEB 2011
+`PHP` `MySQL` `PostgreSQL` `JavaScript` `Apache` `Linux` `HTML/CSS`
+
+Worked on dozens projects in a variety of roles for clients worldwide, from database development to PHP engineering to UI/UX. 
+
+- Canon Europe
+- British Telecom
+- UMD's Business Plan Archive
+- WorldForum 98
+- iCourthouse
+- iFilm
+- Infoseek
+- Many more
 
 ---
 ## Education
