@@ -51,8 +51,8 @@ API design/integration • Observability • ORMs • OAuth & SAML • DNS • T
 ## Experience
 
 ### **Principal Software Engineer**: SocialHP
-AUG 2019 - JULY 2026
-`PHP` `Symfony` `Zend Framework` `Docker` `Node.js` `Go` `PostgreSQL` `ElasticSearch` `JavaScript` `Ubuntu Linux` `Kubernetes (GKE)` `GCP` `Github Actions` `HTML/CSS/SASS` `Wordpress`
+AUG 2019 - PRESENT
+`PHP` `Symfony` `Zend Framework` `Docker` `Node.js` `Vue.js` `Go` `PostgreSQL` `ElasticSearch` `JavaScript` `Ubuntu Linux` `Kubernetes (GKE)` `GCP` `Github Actions` `HTML/CSS/SASS` `Wordpress`
 
 End-to-end ownership of software development, software architecture, technical leadership, systems design, cloud infrastructure and security at an SaaS platform used by organizations for publishing social media posts as well as tracking and analyzing their performance.
 - Maintained and extended a legacy codebase in parallel with a full platform rebuild, keeping production stable throughout the transition.
@@ -68,7 +68,7 @@ End-to-end ownership of software development, software architecture, technical l
 
 ### **Senior Software Engineer**: SocialHP
 JUL 2017 - AUG 2019
-`PHP` `Zend Framework` `Docker` `Node.js` `MySQL` `PostgreSQL` `JavaScript` `Apache`  `Ubuntu Linux ` `Github Actions` `HTML/CSS/SASS` `Wordpress`
+`PHP` `Zend Framework` `Laminas` `Docker` `Node.js` `MySQL` `PostgreSQL` `JavaScript` `Apache`  `Ubuntu Linux ` `Github Actions` `HTML/CSS/SASS` `Wordpress`
 
 -  Maintained and expanded complex MVC framework implementation.
 - Transitioned workloads and dev environment to containers.
@@ -88,7 +88,7 @@ MAR 2013 - JUL 2017
 
 ### **Senior Software Engineer**: CityBlast
 JUN 2016 - APR 2024
-`PHP` `Zend Framework` `MySQL` `JavaScript` `Apache` `Kubernetes (EKS)` `AWS` `HTML/CSS/SASS` `Wordpress`
+`PHP` `Zend Framework` `Laminas` `MySQL` `JavaScript` `Apache` `Kubernetes (EKS)` `AWS` `HTML/CSS/SASS` `Wordpress`
 
 As senior software engineer, focused on software development, software architecture, systems design and cloud infrastructure at an SaaS platform used by real estate agents to publish their listings on social media and track engagement. Sister company to SocialHP.
 
