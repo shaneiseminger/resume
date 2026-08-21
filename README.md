@@ -62,6 +62,7 @@ End-to-end ownership of software development, software architecture, technical l
 - Moved many workloads from cron-based execution to asynchronous pub/sub event-based processing.
 - Consistently reduced cloud spend, sometimes 25% at a time, allowing headroom for new features without budget increases. 
 - Wrote many more third-party API integrations, including workflow-based multi-vendor integrations.
+- Wrote microservices in Golang.
 - Kubernetes implementation allowed us to consistently deliver 99.99% uptime SLAs.
 - Instrumental in leadership and implementation of SOC2 compliance work.
 - Led a dev team of 2–8, including hiring, code review, and technical leadership and direction.
