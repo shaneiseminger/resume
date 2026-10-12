@@ -12,11 +12,9 @@ Albuquerque, NM • UTC-6 MST • UTC-7 MDT
 ---
 ## Background
 
-I spent decades expanding and refining my skills, matching the pace of the web and mobile technology industry as it’s grown and changed. 
+For much of my career, I’ve focused on high-ownership, minimal-oversight work across the domains of software engineering, software architecture, system design, infrastructure and security, leading teams, mentoring junior developers, and directly working with and supporting enterprise clients like Nasdaq, AAA, Accenture, Pepsi and Paypal.
 
-For the last decade-plus I’ve focused on high-ownership, minimal-oversight work across the domains of software engineering, software architecture, system design, infrastructure and security, leading teams, mentoring junior developers, and directly working with and supporting enterprise clients like Nasdaq, AAA, Accenture, Pepsi and Paypal.
-
-My early projects include UI/UX, design, frontend, backend, data modeling and optimization, and often serving as a jack-of-all-trades for startups as well as established enterprise clients.
+My range of experience has given me deep understanding of the complete web software and infrastructure stack.
 
 I’m a strong believer in flexible code, type safety, testing, SOLID principles, systems thinking and constant learning. I actively seek out solutions to problems and opportunities to learn rather than waiting for them to come to me.
 
@@ -121,18 +119,4 @@ Engaged in software development at a social media platform focused on beauty co
 - Expanded the service from basic content sharing to social crowd-sourced content platform and added a product discovery component and box subscription e-commerce component.
 - Worked closely with the CTO to manage and scale the AWS cloud infrastructure.
 
-### **Software Engineer, UI/UX, Graphic Designer:** Freelance
-JAN 1996 - FEB 2011
-`PHP` `MySQL` `PostgreSQL` `JavaScript` `Apache` `Linux` `HTML/CSS`
-
-Worked on dozens projects in a variety of roles for clients worldwide, from database development to PHP engineering to UI/UX. 
-
-- Canon Europe
-- British Telecom
-- UMD's Business Plan Archive
-- WorldForum 98
-- iCourthouse
-- iFilm
-- Infoseek
-- Many more
 
